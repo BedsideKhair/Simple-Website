@@ -25,6 +25,16 @@ h1, h3{
   color: #00FFF4;
 }
 
+h5 {
+  font-family: 'Sonsie One', cursive;
+  color: Lime;
+  text-align: Left;
+  font-size: 3rem;
+  margin: 0;
+  padding: 0;
+  line-height: 20px;
+}
+
 h4 {
   font-family: 'Sonsie One', cursive;
   color: Lime;
